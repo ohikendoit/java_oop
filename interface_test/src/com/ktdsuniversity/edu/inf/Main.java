@@ -15,7 +15,7 @@ public class Main {
 		calculate(new CalculatorNormalImpl());
 		calculate(new CalculatorRandomImpl());
 				
-		
+		//TEST FOR GIT COMMIT & PUSH
 		
 		//인터페이스명 변수명 = new 구현클래스명();
 		Calculator calculator1 = new CalculatorNormalImpl();
